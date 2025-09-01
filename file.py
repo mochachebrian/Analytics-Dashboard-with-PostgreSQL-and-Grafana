@@ -4,7 +4,7 @@ import pandas as pd
 host = 'localhost'
 dbname = 'mochache_demo'
 user = 'postgres'
-password = 'brian56'
+password = '****'
 port = 5432
 conn = None
 cur = None
